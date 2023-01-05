@@ -1,6 +1,7 @@
-public class array {/**
+/**
     * Array
     */
+    public class array {
      public static void main(String[] args) {
             /*classroom of 500 students- you have  to store  marks of these 500 students
              1 option: 500 variable

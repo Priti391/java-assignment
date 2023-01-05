@@ -3,7 +3,7 @@
 //BCA
 //BCA - ALL Notes Here
 import java.util.*;
- class Q1 {
+public class Q1 {
     public static void main(string[]args){
         scanner in=new scanner(system.in);
         System.out.println(s:"your name:");

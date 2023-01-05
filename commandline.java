@@ -1,5 +1,6 @@
-class commandline{
-    static{// static block
+// static block
+        class commandline{
+            static{
     System.out.println("static block");}
     public static void main(String args[]){
         // int a=3;
